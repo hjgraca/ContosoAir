@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/henriquemsft/Webcast202/_apis/build/status/hjgraca.ContosoAir?branchName=master)](https://dev.azure.com/henriquemsft/Webcast202/_build/latest?definitionId=73&branchName=master)
 
 
 # Microsoft.Github CI Demo
